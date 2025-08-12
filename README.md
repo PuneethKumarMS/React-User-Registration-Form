@@ -34,14 +34,30 @@ react-user-form/
 ├── README.md
 └── vite.config.js
 ```
-# Clone the repository
-- git clone https://github.com/your-username/react-user-form.git
+  
+# Install Node.js (if not already installed)
+- **node -v**
+- **npm -v**
+
+# Create the project using Vite
+- **npm create vite@latest react-user-form -- --template react**
+
+# Select framework: - React
+# Select variant: - JavaScript
 
 # Navigate into the project folder
-- cd react-user-form
+- **cd react-user-form**
 
 # Install dependencies
-- npm install
+- **npm install**
 
 # Start the development server
-- npm run dev
+- **npm run dev**
+
+# (OR) 
+
+# Clone the repository
+- **git clone https://github.com/your-username/react-user-form.git**
+
+
+
